@@ -1,0 +1,6 @@
+framework module Pods_Harbor_music_Harbor_musicUITests {
+  umbrella header "Pods-Harbor music-Harbor musicUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
